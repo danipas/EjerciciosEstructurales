@@ -1,6 +1,6 @@
-package ejercicios;
+package ejercicio4Plantilla;
 
-public abstract class Patron04Plantilla {
+public abstract class Plantilla {
 
 	public final void productoFinal() {
 		System.out.println(pelarPatata());

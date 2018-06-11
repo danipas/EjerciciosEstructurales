@@ -1,16 +1,16 @@
-package ejercicios;
+package ejercicio4Plantilla;
 
-public class Patron04Servir {
+public class Servir {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		Patron04Plantilla p = new Patron04TortillaNormal();
+		Plantilla p = new TortillaNormal();
 		p.productoFinal();
 		System.out.println();
-		p = new Patron04TortillaCebolla();
+		p = new TortillaCebolla();
 		p.productoFinal();
 		System.out.println();
-		p = new Patron04TortillaSuda();
+		p = new TortillaSuda();
 		p.productoFinal();
 	}
 

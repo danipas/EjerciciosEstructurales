@@ -1,9 +1,13 @@
-package ejercicios;
+package ejercicio3Puente;
 
-// solucion 1 vehiculo abstract e implementar una variable de motor, coche extends vehiculo
-public class Patron03Motor {
+public class MotorMoto implements Motor {
 	private String tipo;
 
+	public MotorMoto(String _tipo) {
+		this.tipo = _tipo;
+	}
+
+	@Override
 	public String getTipo() {
 		return this.tipo;
 	}

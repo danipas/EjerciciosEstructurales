@@ -1,11 +1,11 @@
-package ejercicios;
+package ejercicio5Cadena;
 
-public class Patron05Dispensador2L implements Patron05Dispensador {
+public class Dispensador2L implements Dispensador {
 
-	private Patron05Dispensador siguiente1L;
+	private Dispensador siguiente1L;
 
 	@Override
-	public void siguienteBotella(Patron05Dispensador leche1L) {
+	public void siguienteBotella(Dispensador leche1L) {
 		this.siguiente1L = leche1L;
 	}
 

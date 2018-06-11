@@ -1,8 +1,8 @@
-package ejercicios;
+package ejercicio6Iterador;
 
 import java.util.ArrayList;
 
-public class Patron06Almacen {
+public class Almacen {
 	ArrayList<String> cadenas = new ArrayList<String>();
 
 	public void añadir(String texto) {

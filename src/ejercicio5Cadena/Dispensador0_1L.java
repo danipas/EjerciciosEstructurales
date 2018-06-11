@@ -1,9 +1,9 @@
-package ejercicios;
+package ejercicio5Cadena;
 
-public class Patron05Dispensador0_1L implements Patron05Dispensador {
+public class Dispensador0_1L implements Dispensador {
 
 	@Override
-	public void siguienteBotella(Patron05Dispensador leche1l) {
+	public void siguienteBotella(Dispensador leche1l) {
 
 	}
 

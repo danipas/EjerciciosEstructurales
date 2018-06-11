@@ -1,6 +1,6 @@
-package ejercicios;
+package ejercicio4Plantilla;
 
-public class Patron04TortillaSuda extends Patron04Plantilla {
+public class TortillaSuda extends Plantilla {
 
 	@Override
 	public String cocinar() {

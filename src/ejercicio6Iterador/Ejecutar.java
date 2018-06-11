@@ -1,12 +1,12 @@
-package ejercicios;
+package ejercicio6Iterador;
 
-public class Patron06Ejecutar {
+public class Ejecutar {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
 		// segundo metodo con scanner
-		Patron06Almacen a = new Patron06Almacen();
+		Almacen a = new Almacen();
 		a.añadir("hola");
 
 	}

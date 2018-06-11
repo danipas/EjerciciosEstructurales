@@ -1,6 +1,6 @@
-package ejercicios;
+package ejercicio2Adapter;
 
-public class Patron02CintaBETA {
+public class CintaBETA {
 
 	private String contenido = "La historia de mi vida";
 

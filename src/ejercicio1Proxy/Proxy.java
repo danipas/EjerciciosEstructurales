@@ -1,6 +1,6 @@
-package ejercicios;
+package ejercicio1Proxy;
 
-public class Patron01Proxy {
+public class Proxy {
 
 	public int numeroAleatorio(int min, int max) {
 		int numero;

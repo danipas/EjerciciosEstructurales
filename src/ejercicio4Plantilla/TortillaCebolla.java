@@ -1,6 +1,6 @@
-package ejercicios;
+package ejercicio4Plantilla;
 
-public class Patron04TortillaCebolla extends Patron04Plantilla {
+public class TortillaCebolla extends Plantilla {
 	
 	@Override
 	public String añadirElementos() {
